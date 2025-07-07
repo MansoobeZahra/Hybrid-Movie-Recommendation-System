@@ -1,10 +1,10 @@
-# 🎬 Hybrid Movie Recommendation System
+#  Hybrid Movie Recommendation System
 
 A powerful hybrid movie recommendation engine combining **Content-Based Filtering** and **Collaborative Filtering** techniques using **Python**, **Pandas**, **Scikit-learn**, and **Surprise** libraries.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This system intelligently recommends movies to users by blending two core methods:
 
@@ -15,7 +15,7 @@ Together, this hybrid approach improves recommendation accuracy by leveraging bo
 
 ---
 
-## 📁 Features
+##  Features
 
 - 🔍 Recommends movies based on movie metadata (genres, overview, tags, keywords)
 - 👥 Predicts ratings using user-user and item-item similarities
